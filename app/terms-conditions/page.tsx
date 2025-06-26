@@ -10,8 +10,6 @@ export default function TermsConditions() {
           <h1 className="text-4xl font-bold text-gray-900 mb-8">Terms and Conditions</h1>
 
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
-            <p className="text-gray-600 mb-6">Last updated: {new Date().toLocaleDateString()}</p>
-
             <p>
               Welcome to Kaizen Pro Services. By accessing or using our website, you agree to comply with these Terms
               and Conditions. If you do not agree, please refrain from using our services.

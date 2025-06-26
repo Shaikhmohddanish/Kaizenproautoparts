@@ -10,8 +10,6 @@ export default function PrivacyPolicy() {
           <h1 className="text-4xl font-bold text-gray-900 mb-8">Privacy Policy</h1>
 
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
-            <p className="text-gray-600 mb-6">Last updated: {new Date().toLocaleDateString()}</p>
-
             <p>
               Welcome to <strong>Kaizen Pro Services DBA Kaizen Auto Parts</strong> ("we," "our," or "us"). This Privacy
               Policy explains how we collect, use, and protect your personal information when you visit our website, use

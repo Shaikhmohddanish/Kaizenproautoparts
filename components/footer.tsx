@@ -8,10 +8,10 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           <div>
-            <div className="flex items-center mb-4">
+            <Link href="/" className="flex items-center mb-4 hover:opacity-80 transition-opacity">
               <Image src="/images/logo.png" alt="Kaizen Pro Services" width={32} height={32} className="mr-2" />
               <span className="text-xl font-bold">Kaizen Pro Services</span>
-            </div>
+            </Link>
             <p className="text-gray-400 mb-4">
               Your trusted partner for quality used auto parts. DBA: Kaizen Auto Parts
             </p>
