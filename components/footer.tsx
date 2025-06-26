@@ -50,14 +50,14 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2">
-              <p className="text-gray-400">
+              <a href="tel:+18889264978" className="text-gray-400 hover:text-white transition-colors block">
                 <Phone className="inline h-4 w-4 mr-2" />
                 (888) 926-4978
-              </p>
-              <p className="text-gray-400">
+              </a>
+              <a href="mailto:sales@kaizenproautoparts.com" className="text-gray-400 hover:text-white transition-colors block">
                 <Mail className="inline h-4 w-4 mr-2" />
                 sales@kaizenproautoparts.com
-              </p>
+              </a>
             </div>
           </div>
         </div>

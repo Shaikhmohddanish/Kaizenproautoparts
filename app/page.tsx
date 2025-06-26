@@ -41,9 +41,14 @@ export default function HomePage() {
               inventory and dedicated service make us your ultimate destination for used auto parts.
             </p>
             <div className="mb-12">
-              <Button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg">
-                <Phone className="mr-2 h-5 w-5" />
-                USA Toll Free (888) 926-4978
+              <Button 
+                asChild
+                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg"
+              >
+                <a href="tel:+18889264978">
+                  <Phone className="mr-2 h-5 w-5" />
+                  USA Toll Free (888) 926-4978
+                </a>
               </Button>
             </div>
           </div>
@@ -92,9 +97,15 @@ export default function HomePage() {
               <CardContent className="p-8 text-center">
                 <Phone className="h-12 w-12 mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-2">Give us a call</h3>
-                <p className="text-3xl font-bold mb-4">(888) 926-4978</p>
-                <Button variant="outline" className="bg-white text-blue-600 hover:bg-gray-100">
-                  CALL NOW
+                <a href="tel:+18889264978" className="text-3xl font-bold mb-4 block hover:text-blue-200 transition-colors">
+                  (888) 926-4978
+                </a>
+                <Button 
+                  asChild
+                  variant="outline" 
+                  className="bg-white text-blue-600 hover:bg-gray-100"
+                >
+                  <a href="tel:+18889264978">CALL NOW</a>
                 </Button>
               </CardContent>
             </Card>
@@ -451,14 +462,18 @@ export default function HomePage() {
                   <Phone className="h-6 w-6 text-blue-600 mr-4" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-gray-600">(888) 926-4978</p>
+                    <a href="tel:+18889264978" className="text-gray-600 hover:text-blue-600 transition-colors">
+                      (888) 926-4978
+                    </a>
                   </div>
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-6 w-6 text-blue-600 mr-4" />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <p className="text-gray-600">sales@kaizenproautoparts.com</p>
+                    <a href="mailto:sales@kaizenproautoparts.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+                      sales@kaizenproautoparts.com
+                    </a>
                   </div>
                 </div>
                 <div className="flex items-center">

@@ -34,21 +34,19 @@ export default function ContactPage() {
                 <div className="flex items-start">
                   <Phone className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
-                    <h3 className="font-bold text-gray-900 text-lg mb-1">(888) 926-4978</h3>
+                    <a href="tel:+18889264978" className="font-bold text-gray-900 text-lg mb-1 hover:text-blue-600 transition-colors">
+                      (888) 926-4978
+                    </a>
                   </div>
                 </div>
 
                 <div className="flex items-start">
                   <Mail className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
-                    <h3 className="font-bold text-gray-900 text-lg mb-1">SALES@KAIZENPROAUTOPARTS.COM</h3>
+                    <a href="mailto:sales@kaizenproautoparts.com" className="font-bold text-gray-900 text-lg mb-1 hover:text-blue-600 transition-colors">
+                      SALES@KAIZENPROAUTOPARTS.COM
+                    </a>
                   </div>
-                </div>
-
-                <div className="pt-4">
-                  <Button className="bg-blue-600 hover:bg-blue-700 text-white">
-                    Get Direction <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
                 </div>
               </div>
 
