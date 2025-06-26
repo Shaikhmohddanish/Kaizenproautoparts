@@ -69,8 +69,12 @@ export default function HomePage() {
                 <MapPin className="h-12 w-12 mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-2">Address:</h3>
                 <p className="text-blue-100">30 N Gould St, STE N, Sheridan, WY 82801</p>
-                <Button variant="outline" className="mt-4 bg-white text-blue-600 hover:bg-gray-100">
-                  CONTACT US
+                <Button 
+                  asChild
+                  variant="outline" 
+                  className="mt-4 bg-white text-blue-600 hover:bg-gray-100"
+                >
+                  <Link href="/contact">CONTACT US</Link>
                 </Button>
               </CardContent>
             </Card>
