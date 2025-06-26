@@ -45,7 +45,7 @@ export default function HomePage() {
                 asChild
                 className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg"
               >
-                <a href="tel:+18889264978">
+                <a href="tel:+18889285936">
                   <Phone className="mr-2 h-5 w-5" />
                   USA Toll Free (888) 928-5936
                 </a>
@@ -101,7 +101,7 @@ export default function HomePage() {
               <CardContent className="p-8 text-center">
                 <Phone className="h-12 w-12 mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-2">Give us a call</h3>
-                <a href="tel:+18889264978" className="text-3xl font-bold mb-4 block hover:text-blue-200 transition-colors">
+                <a href="tel:+18889285936" className="text-3xl font-bold mb-4 block hover:text-blue-200 transition-colors">
                   (888) 928-5936
                 </a>
                 <Button 
@@ -109,7 +109,7 @@ export default function HomePage() {
                   variant="outline" 
                   className="bg-white text-blue-600 hover:bg-gray-100"
                 >
-                  <a href="tel:+18889264978">CALL NOW</a>
+                  <a href="tel:+18889285936">CALL NOW</a>
                 </Button>
               </CardContent>
             </Card>
@@ -466,7 +466,7 @@ export default function HomePage() {
                   <Phone className="h-6 w-6 text-blue-600 mr-4" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <a href="tel:+18889264978" className="text-gray-600 hover:text-blue-600 transition-colors">
+                    <a href="tel:+18889285936" className="text-gray-600 hover:text-blue-600 transition-colors">
                       (888) 928-5936
                     </a>
                   </div>

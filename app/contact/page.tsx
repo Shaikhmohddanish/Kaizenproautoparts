@@ -34,7 +34,7 @@ export default function ContactPage() {
                 <div className="flex items-start">
                   <Phone className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
-                    <a href="tel:+18889264978" className="font-bold text-gray-900 text-lg mb-1 hover:text-blue-600 transition-colors">
+                    <a href="tel:+18889285936" className="font-bold text-gray-900 text-lg mb-1 hover:text-blue-600 transition-colors">
                       (888) 928-5936
                     </a>
                   </div>
