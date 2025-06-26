@@ -12,7 +12,6 @@ export default function ContactPage() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
-
       {/* Main Contact Section */}
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
