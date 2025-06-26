@@ -47,7 +47,7 @@ export default function HomePage() {
               >
                 <a href="tel:+18889264978">
                   <Phone className="mr-2 h-5 w-5" />
-                  USA Toll Free (888) 926-4978
+                  USA Toll Free (888) 928-5936
                 </a>
               </Button>
             </div>
@@ -102,7 +102,7 @@ export default function HomePage() {
                 <Phone className="h-12 w-12 mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-2">Give us a call</h3>
                 <a href="tel:+18889264978" className="text-3xl font-bold mb-4 block hover:text-blue-200 transition-colors">
-                  (888) 926-4978
+                  (888) 928-5936
                 </a>
                 <Button 
                   asChild
@@ -344,7 +344,7 @@ export default function HomePage() {
                   <input type="checkbox" id="sms-consent" className="mt-1" />
                   <label htmlFor="sms-consent" className="text-sm text-gray-600">
                     By checking this box, you agree to receive SMS messages from Kaizen Pro Services related to delivery
-                    notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 926-4978 for
+                    notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 928-5936 for
                     assistance. Messages and data rates may apply. Message frequency will vary. Learn more on our
                     privacy policy page and Term & Conditions.
                   </label>
@@ -467,7 +467,7 @@ export default function HomePage() {
                   <div>
                     <p className="font-semibold">Phone</p>
                     <a href="tel:+18889264978" className="text-gray-600 hover:text-blue-600 transition-colors">
-                      (888) 926-4978
+                      (888) 928-5936
                     </a>
                   </div>
                 </div>

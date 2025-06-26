@@ -102,7 +102,8 @@ export default function PrivacyPolicy() {
               By providing your phone number, you consent to: – Receive recurring SMS messages from Kaizen Pro Services
               DBA Kaizen Auto Parts – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
-              sales@kaizenproautoparts.com or (888) 926-4978.
+              sales@kaizenproautoparts.com or (888) 928-5936 Once you opt out, you will no longer receive SMS messages,
+              but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Data Sharing</h3>
@@ -139,7 +140,7 @@ export default function PrivacyPolicy() {
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">How To Contact Us</h2>
             <p>
-              Should you have other questions or concerns about these privacy policies, please call us at (888) 926-4978
+              Should you have other questions or concerns about these privacy policies, please call us at (888) 928-5936
               or send us an email at sales@kaizenproautoparts.com
             </p>
 
@@ -325,12 +326,12 @@ export default function PrivacyPolicy() {
               </p>
 
               <p className="mt-4">
-                <strong>Phone Number:</strong> (888) 926-4978
+                <strong>Phone Number:</strong> (888) 928-5936
               </p>
 
               <p className="mt-4">
                 <strong>Contact Us:</strong> If you have questions about this Privacy Policy, contact us at
-                sales@kaizenproautoparts.com or (888) 926-4978.
+                sales@kaizenproautoparts.com or (888) 928-5936.
               </p>
             </div>
           </div>

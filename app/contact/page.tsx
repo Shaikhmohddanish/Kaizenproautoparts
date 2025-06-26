@@ -35,7 +35,7 @@ export default function ContactPage() {
                   <Phone className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
                     <a href="tel:+18889264978" className="font-bold text-gray-900 text-lg mb-1 hover:text-blue-600 transition-colors">
-                      (888) 926-4978
+                      (888) 928-5936
                     </a>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ export default function ContactPage() {
                       <input type="checkbox" id="sms-consent-contact" className="mt-1" />
                       <label htmlFor="sms-consent-contact" className="text-sm text-gray-600">
                         By checking this box, you agree to receive SMS messages from Kaizen Pro Services related to
-                        delivery notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 926-4978
+                        delivery notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 928-5936
                         for assistance. Messages and data rates may apply. Message frequency will vary. Learn more on
                         our privacy policy page and Term & Conditions.
                       </label>
