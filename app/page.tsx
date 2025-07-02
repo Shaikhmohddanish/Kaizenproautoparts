@@ -56,7 +56,7 @@ export default function HomePage() {
 
         {/* Hero Car Image */}
         <div className="relative">
-          <Image src="/images/auto-parts-hero.jpg" alt="Auto Parts Collection" width={800} height={400} className="mx-auto rounded-lg shadow-lg" />
+          <Image src="/images/bmw-hero.png" alt="BMW Car" width={800} height={400} className="mx-auto" />
         </div>
       </section>
 
