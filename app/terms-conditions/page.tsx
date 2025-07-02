@@ -11,7 +11,7 @@ export default function TermsConditions() {
 
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
             <p>
-              Welcome to Kaizen Pro Services. By accessing or using our website, you agree to comply with these Terms
+              Welcome to Kaizen Auto Parts. By accessing or using our website, you agree to comply with these Terms
               and Conditions. If you do not agree, please refrain from using our services.
             </p>
 
@@ -31,7 +31,7 @@ export default function TermsConditions() {
 
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Consent to Receive SMS Messages</h3>
             <p>
-              By providing your phone number, you consent to: – Receive recurring SMS messages from Kaizen Pro Services
+              By providing your phone number, you consent to: – Receive recurring SMS messages from Kaizen Auto Parts
               DBA Kaizen Auto Parts – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
               sales@kaizenproautoparts.com or (888) 928-5936.
@@ -82,7 +82,7 @@ export default function TermsConditions() {
                 carrier delays.
               </li>
               <li>
-                Customers are responsible for providing accurate shipping details. Kaizen Pro Services is not liable for
+                Customers are responsible for providing accurate shipping details. Kaizen Auto Parts is not liable for
                 delays caused by incorrect information.
               </li>
             </ul>
@@ -95,7 +95,7 @@ export default function TermsConditions() {
             </ul>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Limitation of Liability</h2>
-            <p>Kaizen Pro Services is not responsible for:</p>
+            <p>Kaizen Auto Parts is not responsible for:</p>
             <ul className="list-disc pl-6 space-y-2">
               <li>Damages resulting from improper use of our products.</li>
               <li>

@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
 
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Consent to Receive SMS Messages</h3>
             <p>
-              By providing your phone number, you consent to: – Receive recurring SMS messages from Kaizen Pro Services
+              By providing your phone number, you consent to: – Receive recurring SMS messages from Kaizen Auto Parts
               DBA Kaizen Auto Parts – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
               sales@kaizenproautoparts.com or (888) 928-5936 Once you opt out, you will no longer receive SMS messages,
@@ -169,8 +169,8 @@ export default function PrivacyPolicy() {
             <p>
               Visitors agree that all information, content, and materials specific to this site and that any copying of
               this information is in violation of the law. The use of this site's materials, products, or services is
-              not to be used to violate the law. The use of this site is at the discretion of Kaizen Pro Services and
-              Kaizen Pro Services may terminate any use by anyone at any time without notification.
+              not to be used to violate the law. The use of this site is at the discretion of Kaizen Auto Parts and
+              Kaizen Auto Parts may terminate any use by anyone at any time without notification.
             </p>
 
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Liability Limits and Postings</h3>
@@ -313,7 +313,7 @@ export default function PrivacyPolicy() {
               via any of the contact methods listed below.
             </p>
 
-            <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Kaizen Pro Services Contact Information</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Kaizen Auto Parts Contact Information</h2>
             <div className="bg-gray-50 p-6 rounded-lg">
               <p>
                 <strong>Postal:</strong>

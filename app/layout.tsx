@@ -7,7 +7,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Kaizen Pro Services - Quality Used Auto Parts",
+  title: "Kaizen Auto Parts - Quality Used Auto Parts",
   description:
     "Your trusted partner for quality used auto parts. Extensive inventory, competitive prices, and expert service for all your automotive needs.",
   keywords: "used auto parts, car parts, automotive parts, engine parts, transmission parts",

@@ -9,8 +9,8 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           <div>
             <Link href="/" className="flex items-center mb-4 hover:opacity-80 transition-opacity">
-              <Image src="/images/logo.png" alt="Kaizen Pro Services" width={32} height={32} className="mr-2" />
-              <span className="text-xl font-bold">Kaizen Pro Services</span>
+              <Image src="/images/logo.png" alt="Kaizen Auto Parts" width={32} height={32} className="mr-2" />
+              <span className="text-xl font-bold">Kaizen Auto Parts</span>
             </Link>
             <p className="text-gray-400 mb-4">
               Your trusted partner for quality used auto parts. DBA: Kaizen Auto Parts
@@ -64,7 +64,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Kaizen Pro Services. All rights reserved.
+            © {new Date().getFullYear()} Kaizen Auto Parts. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacy-policy" className="text-gray-400 hover:text-white text-sm">

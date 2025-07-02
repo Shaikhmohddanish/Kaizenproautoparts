@@ -54,7 +54,7 @@ export default function ContactPage() {
               <div className="mt-12">
                 <iframe
                   className="w-full h-80 rounded-lg border-0"
-                  title="Google Map for Kaizen Pro Services"
+                  title="Google Map for Kaizen Auto Parts"
                   src="https://maps.google.com/maps?q=30%20N%20Gould%20St%2C%20STE%20N%2C%20Sheridan%2C%20WY%2082801&z=12&hl=en&t=m&output=embed&iwloc=near"
                   loading="lazy"
                   allowFullScreen
@@ -83,7 +83,7 @@ export default function ContactPage() {
                     <div className="flex items-start space-x-2">
                       <input type="checkbox" id="sms-consent-contact" className="mt-1" />
                       <label htmlFor="sms-consent-contact" className="text-sm text-gray-600">
-                        By checking this box, you agree to receive SMS messages from Kaizen Pro Services related to
+                        By checking this box, you agree to receive SMS messages from Kaizen Auto Parts related to
                         delivery notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 928-5936
                         for assistance. Messages and data rates may apply. Message frequency will vary. Learn more on
                         our privacy policy page and Term & Conditions.

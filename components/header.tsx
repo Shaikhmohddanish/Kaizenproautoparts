@@ -32,8 +32,8 @@ export function Header() {
             onClick={() => handleNavigation("/")}
             className="flex items-center hover:opacity-80 transition-opacity"
           >
-            <Image src="/images/logo.png" alt="Kaizen Pro Services" width={40} height={40} className="mr-3" />
-            <span className="text-xl font-bold text-gray-900">Kaizen Pro Services</span>
+            <Image src="/images/logo.png" alt="Kaizen Auto Parts" width={40} height={40} className="mr-3" />
+            <span className="text-xl font-bold text-gray-900">Kaizen Auto Parts</span>
           </button>
 
           {/* Desktop Navigation */}

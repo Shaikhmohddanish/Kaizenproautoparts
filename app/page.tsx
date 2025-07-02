@@ -34,7 +34,7 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-r from-gray-100 to-gray-200 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Welcome to Kaizen Pro Services</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Welcome to Kaizen Auto Parts</h1>
             <div className="w-16 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Whether you're looking for a rare replacement part or want to save money on vehicle repairs, our extensive
@@ -121,11 +121,11 @@ export default function HomePage() {
       <section id="about" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Kaizen Pro Services?</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Kaizen Auto Parts?</h2>
             <div className="w-16 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto">
               When it comes to maintaining or upgrading your vehicle, every decision matters. From cost-efficiency to
-              environmental responsibility, buying used auto parts is an intelligent choice. At Kaizen Pro Services, we
+              environmental responsibility, buying used auto parts is an intelligent choice. At Kaizen Auto Parts, we
               aim to make this decision even easier by providing:
             </p>
           </div>
@@ -243,7 +243,7 @@ export default function HomePage() {
             <div className="w-16 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto">
               When it comes to maintaining or upgrading your vehicle, every decision matters. From cost-efficiency to
-              environmental responsibility, buying used auto parts is an intelligent choice. At Kaizen Pro Services, we
+              environmental responsibility, buying used auto parts is an intelligent choice. At Kaizen Auto Parts, we
               aim to make this decision even easier by providing:
             </p>
           </div>
@@ -307,7 +307,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-3">ECU & ECM</h3>
               <p className="text-gray-600">
-                Looking for Electrical Parts like ECU, ECM, Wiring harness? Look no Further Kaizen Pro Services is here
+                Looking for Electrical Parts like ECU, ECM, Wiring harness? Look no Further Kaizen Auto Parts is here
                 to help you make wise decision.
               </p>
             </div>
@@ -343,7 +343,7 @@ export default function HomePage() {
                 <div className="flex items-start space-x-2">
                   <input type="checkbox" id="sms-consent" className="mt-1" />
                   <label htmlFor="sms-consent" className="text-sm text-gray-600">
-                    By checking this box, you agree to receive SMS messages from Kaizen Pro Services related to delivery
+                    By checking this box, you agree to receive SMS messages from Kaizen Auto Parts related to delivery
                     notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 928-5936 for
                     assistance. Messages and data rates may apply. Message frequency will vary. Learn more on our
                     privacy policy page and Term & Conditions.
@@ -372,7 +372,7 @@ export default function HomePage() {
               <CardContent className="p-8">
                 <div className="text-4xl text-blue-600 mb-4">"</div>
                 <p className="text-gray-700 mb-6">
-                  Kaizen Pro Services saved me both time and money! I was struggling to find a replacement engine for my
+                  Kaizen Auto Parts saved me both time and money! I was struggling to find a replacement engine for my
                   2014 Toyota Camry, and their team not only had the part in stock but also helped me confirm it was the
                   right fit for my car. The part arrived quickly and was in excellent condition—just as described.
                   Thanks to them, my car is running like new again! Highly recommend their service to anyone looking for
@@ -394,8 +394,8 @@ export default function HomePage() {
               <CardContent className="p-8">
                 <div className="text-4xl text-blue-600 mb-4">"</div>
                 <p className="text-gray-700 mb-6">
-                  "I've been a loyal customer of Kaizen Pro Services for over two years now. As the owner of a repair
-                  shop, I need reliable, affordable parts to keep my business running smoothly. Kaizen Pro Services
+                  "I've been a loyal customer of Kaizen Auto Parts for over two years now. As the owner of a repair
+                  shop, I need reliable, affordable parts to keep my business running smoothly. Kaizen Auto Parts
                   never disappoints —they always have what I need, and their customer service is top-notch. Plus, their
                   fast shipping ensures I can get parts to my clients quickly. They're my go-to source for used auto
                   parts!"
@@ -495,7 +495,7 @@ export default function HomePage() {
             <div>
               <iframe
                 className="w-full h-96 rounded-lg border-0"
-                title="Google Map for Kaizen Pro Services"
+                title="Google Map for Kaizen Auto Parts"
                 src="https://maps.google.com/maps?q=30%20N%20Gould%20St%2C%20STE%20N%2C%20Sheridan%2C%20WY%2082801&z=12&hl=en&t=m&output=embed&iwloc=near"
                 loading="lazy"
                 allowFullScreen
